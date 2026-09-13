@@ -5,6 +5,11 @@
 
 ### Features
 
+- **deps:** add new Python packages to project dependencies ([3c58122](https://github.com/DaoChaShao/py-data-analysis-basic/commit/3c581224477a30386388abff77dafabf204c5bef))
+- **seaborn:** add comprehensive plotting examples with multiple visualization types ([bc4a16a](https://github.com/DaoChaShao/py-data-analysis-basic/commit/bc4a16a29cc3452c1b82e50bbe59c9264ed47ab7))
+- **seaborn:** add seaborn style and color palette examples ([9ef0475](https://github.com/DaoChaShao/py-data-analysis-basic/commit/9ef0475bfee890723ff3d4ed6e81b19be1d2a969))
+- **seaborn:** add seaborn built-in datasets exploration script ([d88bdc1](https://github.com/DaoChaShao/py-data-analysis-basic/commit/d88bdc1897d6457b719a3dc340c05fd76c573ae5))
+- **image:** add comprehensive image processing and scipy functionality ([ccf0a3a](https://github.com/DaoChaShao/py-data-analysis-basic/commit/ccf0a3a1e47bdcc840836a27b9ee8bdc8e8a009d))
 - generate scipy image file ([fe01472](https://github.com/DaoChaShao/py-data-analysis-basic/commit/fe0147287dd0615c822f880a9a200dd632b6c9a4))
 - add image for scipy functions ([932f131](https://github.com/DaoChaShao/py-data-analysis-basic/commit/932f131ebdf402f6bf517d36b6defbb96472ca39))
 - **dependencies:** add pooch library to project dependencies ([ab47daa](https://github.com/DaoChaShao/py-data-analysis-basic/commit/ab47daad6eb968c1d8a7ebd6f9378c2708bbbef6))
@@ -97,6 +102,7 @@
 
 ### Chore
 
+- **deps:** add ipywidgets dependency to project requirements ([3dc98bd](https://github.com/DaoChaShao/py-data-analysis-basic/commit/3dc98bd07c94f5fa02225a85688ac97099c1a0d7))
 - **deps:** update Python dependencies in lockfile ([ee418e4](https://github.com/DaoChaShao/py-data-analysis-basic/commit/ee418e45abc962ad8ebe57687fae6ffa9f019518))
 - **project:** initialize project with CHANGELOG and core components ([57e94eb](https://github.com/DaoChaShao/py-data-analysis-basic/commit/57e94eb2e0bfae4e3092b57f85c83bb35b06757b))
 - **deps:** add uv lock file with project dependencies ([34de1da](https://github.com/DaoChaShao/py-data-analysis-basic/commit/34de1da69d04199774c0c47b3cdee8cab1b0918e))
