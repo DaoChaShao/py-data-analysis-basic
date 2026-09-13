@@ -5,6 +5,14 @@
 
 ### Features
 
+- **pandas:** add dataframe rename functionality with mapping examples ([d487df6](https://github.com/DaoChaShao/py-data-analysis-basic/commit/d487df6ecc78cb6adc792930db151a2308b6df8c))
+- **pandas:** add dataframe mapping operations with map function examples ([82f8738](https://github.com/DaoChaShao/py-data-analysis-basic/commit/82f8738f88aac84b8fc425ff7baf65da582afa55))
+- **dataframe:** add dataframe mapping and regex replacement functionality ([f1a5fd3](https://github.com/DaoChaShao/py-data-analysis-basic/commit/f1a5fd37ef298661eabc85988449f2a06dc3a4d8))
+- **pandas:** add dataframe mapping and replace functionality ([462ef85](https://github.com/DaoChaShao/py-data-analysis-basic/commit/462ef85e60782fdb97639510417d87aba027ceba))
+- **pandas:** add dataframe duplicate value handling tutorial ([a3bd5d3](https://github.com/DaoChaShao/py-data-analysis-basic/commit/a3bd5d3de3ac2e3c41fed04bc32347de7a2400b1))
+- **dataframe:** add US population data analysis module ([6840dcd](https://github.com/DaoChaShao/py-data-analysis-basic/commit/6840dcdbbc56b6cec219d884a5e96aeb942210ea))
+- **pandas:** add dataframe concatenation merge exercises ([5745df0](https://github.com/DaoChaShao/py-data-analysis-basic/commit/5745df0c7e0f8ad59615163aa22489404aee855e))
+- **pandas:** add comprehensive series functionality examples ([1f215c1](https://github.com/DaoChaShao/py-data-analysis-basic/commit/1f215c19e28b6ba303cc22d79b01e2aca910cc41))
 - **examples:** add pandas series practice exercises with arithmetic operations ([c16fb9d](https://github.com/DaoChaShao/py-data-analysis-basic/commit/c16fb9dcefc878e2971483ddfb3dde874d62b19b))
 - **series:** add comprehensive series calculation examples with broadcasting operations ([1ec5122](https://github.com/DaoChaShao/py-data-analysis-basic/commit/1ec512226a6541891faa6c01e2f06ffcd4063fcd))
 - **pandas:** add pandas Series attributes and methods examples ([8288749](https://github.com/DaoChaShao/py-data-analysis-basic/commit/82887491b7918e9fc3b616e487dfe255d66d95cc))
