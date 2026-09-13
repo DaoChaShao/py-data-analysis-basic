@@ -5,6 +5,12 @@
 
 ### Features
 
+- **numpy:** add comprehensive array operations and statistical functions ([22d57e0](https://github.com/DaoChaShao/py-data-analysis-basic/commit/22d57e0f13d87967b86c7e77326a82ab19bbbd58))
+- **numpy:** add basic array operations module ([7490193](https://github.com/DaoChaShao/py-data-analysis-basic/commit/7490193d1e618d552c46d6e0947c56a88a34e1ab))
+- **numpy:** add comprehensive array access and slicing examples ([6cbb72e](https://github.com/DaoChaShao/py-data-analysis-basic/commit/6cbb72e56be9c2cd9e549a15f85f5530a1983b46))
+- **numpy:** add comprehensive numpy array creation examples and utilities ([612018a](https://github.com/DaoChaShao/py-data-analysis-basic/commit/612018aac2524e715880bbcb67eca3a3da91f996))
+- **numpy:** add basic numpy array type conversion examples ([121cdc6](https://github.com/DaoChaShao/py-data-analysis-basic/commit/121cdc6f436692a70199af1340d336e72a40d2c1))
+- **charts:** add comprehensive data visualization and analysis capabilities ([7d78cc7](https://github.com/DaoChaShao/py-data-analysis-basic/commit/7d78cc77d36e1d8aca3a23810f55239b7ff8ef88))
 - add font file ([8f1f4fe](https://github.com/DaoChaShao/py-data-analysis-basic/commit/8f1f4fe6cec2853c4b787eaa7df35b1734b2fd2b))
 - add uv.lock file ([6e9a9b3](https://github.com/DaoChaShao/py-data-analysis-basic/commit/6e9a9b3e900f3b64e70da6b84b7300cc701940bf))
 - add image file about sin and cos ([97ab901](https://github.com/DaoChaShao/py-data-analysis-basic/commit/97ab90191ba905751ead4eacf35964e02af8d653))
