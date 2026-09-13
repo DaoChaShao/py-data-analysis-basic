@@ -5,6 +5,13 @@
 
 ### Features
 
+- **pandas:** add dataframe apply function example with fake game data ([25decb5](https://github.com/DaoChaShao/py-data-analysis-basic/commit/25decb5a719da945d6207f032d391224c04ca346))
+- **pandas:** add dataframe cross-tabulation example with pivot table comparison ([9ca9684](https://github.com/DaoChaShao/py-data-analysis-basic/commit/9ca96847b04a8289eec752c3f7ba820532a02310))
+- **pandas:** add pivot table functionality with data transformation examples ([0822dc9](https://github.com/DaoChaShao/py-data-analysis-basic/commit/0822dc998bbfcf9bac20ccb4650c3a0b50b615ef))
+- **pandas:** add dataframe grouping functionality with fake LoL character data ([8376341](https://github.com/DaoChaShao/py-data-analysis-basic/commit/8376341447ee69bc1f5816c29cb8053962c2a7b5))
+- **dataframe:** add dataframe sorting and sampling functionality ([361090a](https://github.com/DaoChaShao/py-data-analysis-basic/commit/361090a040e30dcb1803a9a41eb8e202155deeb7))
+- **dataframe:** add outlier detection functionality with standard deviation method ([66a9b47](https://github.com/DaoChaShao/py-data-analysis-basic/commit/66a9b47fa61dbebe52d9dfa23d5d493caa23b99b))
+- **changelog:** update changelog with comprehensive pandas dataframe and series features ([cb80fd5](https://github.com/DaoChaShao/py-data-analysis-basic/commit/cb80fd5264fd31ae058d48ee8c1de4e080c6f7e8))
 - **deps:** add openpyxl and et-xmlfile dependencies ([a95b83f](https://github.com/DaoChaShao/py-data-analysis-basic/commit/a95b83f0f43eaec35a450dd12d16a547ec84edc9))
 - **deps:** add openpyxl dependency for Excel file handling ([9944842](https://github.com/DaoChaShao/py-data-analysis-basic/commit/9944842264cd996239dff6ca84e44c149855f68f))
 - generate data file ([1f100e6](https://github.com/DaoChaShao/py-data-analysis-basic/commit/1f100e68162f6be049c28be1fd4f00158ba61382))
@@ -23,7 +30,6 @@
 - **pandas:** add dataframe operations and calculations ([b28aa5c](https://github.com/DaoChaShao/py-data-analysis-basic/commit/b28aa5ca678603cbfbe5cc0ed8ec6dc5c5950727))
 - **pandas:** add dataframe indexing and slicing examples ([32edf02](https://github.com/DaoChaShao/py-data-analysis-basic/commit/32edf02dcb3b8a35876646d0d4756bcaa49f29f9))
 - **dataframe:** add dataframe construction and Excel I/O functionality ([55f3f3a](https://github.com/DaoChaShao/py-data-analysis-basic/commit/55f3f3a47457608de94819c8ad2490a9022176fb))
-- **changelog:** update changelog with comprehensive pandas dataframe and series features ([fb00876](https://github.com/DaoChaShao/py-data-analysis-basic/commit/fb0087633b8dd9a1ea9667acc4787c124024066c))
 - **pandas:** add dataframe rename functionality with mapping examples ([d487df6](https://github.com/DaoChaShao/py-data-analysis-basic/commit/d487df6ecc78cb6adc792930db151a2308b6df8c))
 - **dataframe:** add dataframe mapping and regex replacement functionality ([f1a5fd3](https://github.com/DaoChaShao/py-data-analysis-basic/commit/f1a5fd37ef298661eabc85988449f2a06dc3a4d8))
 - **pandas:** add dataframe mapping and replace functionality ([462ef85](https://github.com/DaoChaShao/py-data-analysis-basic/commit/462ef85e60782fdb97639510417d87aba027ceba))
