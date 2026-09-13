@@ -5,6 +5,8 @@
 
 ### Features
 
+- **security:** add MD5 hashing with salt implementation ([e64945b](https://github.com/DaoChaShao/py-data-analysis-basic/commit/e64945b98793f31e9efc7523ac19e3cdb14a4fc0))
+- **security:** add password encryption module with salt mechanism ([2dacd1e](https://github.com/DaoChaShao/py-data-analysis-basic/commit/2dacd1e3091b2cfb31aba9f29dc38d02744ccaca))
 - **utils:** add comprehensive utility functions for fake data generation and text processing ([46cc119](https://github.com/DaoChaShao/py-data-analysis-basic/commit/46cc119cc92ec80a90271ad8cdbaa7b2944345a7))
 - **test:** add initial test data file ([25b8e25](https://github.com/DaoChaShao/py-data-analysis-basic/commit/25b8e2537efa4a0468198d775e28fe2e1ef920bd))
 - **protocol:** add Python protocol implementation example ([bf2db5f](https://github.com/DaoChaShao/py-data-analysis-basic/commit/bf2db5f122948b26ff989a338b2f91799e9489c3))
@@ -21,6 +23,7 @@
 
 ### Chore
 
+- **project:** initialize project with CHANGELOG and core components ([57e94eb](https://github.com/DaoChaShao/py-data-analysis-basic/commit/57e94eb2e0bfae4e3092b57f85c83bb35b06757b))
 - **deps:** add uv lock file with project dependencies ([34de1da](https://github.com/DaoChaShao/py-data-analysis-basic/commit/34de1da69d04199774c0c47b3cdee8cab1b0918e))
 - **project:** add pyproject.toml configuration ([47545d3](https://github.com/DaoChaShao/py-data-analysis-basic/commit/47545d3e0ca8590477bd1bbab0e479113b411d3a))
 - **env:** add python version file ([ee62881](https://github.com/DaoChaShao/py-data-analysis-basic/commit/ee628813066ed66787e031dc08376bea8d734617))
