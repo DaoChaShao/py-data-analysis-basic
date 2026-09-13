@@ -5,6 +5,12 @@
 
 ### Features
 
+- **examples:** add pandas series practice exercises with arithmetic operations ([c16fb9d](https://github.com/DaoChaShao/py-data-analysis-basic/commit/c16fb9dcefc878e2971483ddfb3dde874d62b19b))
+- **series:** add comprehensive series calculation examples with broadcasting operations ([1ec5122](https://github.com/DaoChaShao/py-data-analysis-basic/commit/1ec512226a6541891faa6c01e2f06ffcd4063fcd))
+- **pandas:** add pandas Series attributes and methods examples ([8288749](https://github.com/DaoChaShao/py-data-analysis-basic/commit/82887491b7918e9fc3b616e487dfe255d66d95cc))
+- **pandas:** add series access methods tutorial ([e611137](https://github.com/DaoChaShao/py-data-analysis-basic/commit/e611137cacfdb2b00ec77d5efb1829e27d14f114))
+- **pandas:** add series construction examples with multiple data sources ([8921d6a](https://github.com/DaoChaShao/py-data-analysis-basic/commit/8921d6ab324d4e5cb976e928651f02777608a6cf))
+- **changelog:** update changelog with numpy and charts features ([d815f57](https://github.com/DaoChaShao/py-data-analysis-basic/commit/d815f57c7330e8750e695a82e62f5eb78675e2b2))
 - **numpy:** add comprehensive array operations and statistical functions ([22d57e0](https://github.com/DaoChaShao/py-data-analysis-basic/commit/22d57e0f13d87967b86c7e77326a82ab19bbbd58))
 - **numpy:** add basic array operations module ([7490193](https://github.com/DaoChaShao/py-data-analysis-basic/commit/7490193d1e618d552c46d6e0947c56a88a34e1ab))
 - **numpy:** add comprehensive array access and slicing examples ([6cbb72e](https://github.com/DaoChaShao/py-data-analysis-basic/commit/6cbb72e56be9c2cd9e549a15f85f5530a1983b46))
