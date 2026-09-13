@@ -5,8 +5,32 @@
 
 ### Features
 
+- add font file ([8f1f4fe](https://github.com/DaoChaShao/py-data-analysis-basic/commit/8f1f4fe6cec2853c4b787eaa7df35b1734b2fd2b))
+- add uv.lock file ([6e9a9b3](https://github.com/DaoChaShao/py-data-analysis-basic/commit/6e9a9b3e900f3b64e70da6b84b7300cc701940bf))
+- add image file about sin and cos ([97ab901](https://github.com/DaoChaShao/py-data-analysis-basic/commit/97ab90191ba905751ead4eacf35964e02af8d653))
+- **deps:** add data science and analytics libraries ([b2c92fd](https://github.com/DaoChaShao/py-data-analysis-basic/commit/b2c92fda2093963bcb945326f89e564e375e2a23))
+- **utils:** add terminal text highlighting utilities ([be97c52](https://github.com/DaoChaShao/py-data-analysis-basic/commit/be97c5282cc80244ae30baadae42d9316efc21c6))
+- **utils:** add helper module with context managers for code beautification timing and random seeding ([4aebeb8](https://github.com/DaoChaShao/py-data-analysis-basic/commit/4aebeb8a29d2892e8a16f29f51e9bd468ccca362))
+- **utils:** add decorator module with timing and beautification utilities ([8823083](https://github.com/DaoChaShao/py-data-analysis-basic/commit/882308311aef7ff8d24f6deb20b1cfa618d66f33))
+- **utils:** initialize comprehensive utility module with core components ([dfde9f8](https://github.com/DaoChaShao/py-data-analysis-basic/commit/dfde9f83890309ee544802a52fc4490b096d61e2))
+- **charts:** add box plot visualization functionality ([eb92fa9](https://github.com/DaoChaShao/py-data-analysis-basic/commit/eb92fa9aa66e8e346664a75dc3252307258eebf4))
+- **charts:** add radar chart implementation ([c8bcb1b](https://github.com/DaoChaShao/py-data-analysis-basic/commit/c8bcb1b232531819a363799b1fd68552b534f766))
+- **charts:** add scatter plot functionality with multiple visualization options ([fd1d8b4](https://github.com/DaoChaShao/py-data-analysis-basic/commit/fd1d8b497bcbfc5f68d8e5e69a5737aa99bf98c3))
+- **charts:** add histogram plotting functionality with fake data generation ([92f299c](https://github.com/DaoChaShao/py-data-analysis-basic/commit/92f299c6c09b814a23515b5758b29952edf8f0ff))
+- **charts:** add pie chart creation functionality ([34a116b](https://github.com/DaoChaShao/py-data-analysis-basic/commit/34a116bd9c7bfe047bc758fce242ddacf363aada))
+- **charts:** add matplotlib bar chart implementation ([1ec58fc](https://github.com/DaoChaShao/py-data-analysis-basic/commit/1ec58fc5b0fdfd6984bebab3bfe0201986e93e1c))
+- **matplotlib:** add line chart with subplots example ([e404088](https://github.com/DaoChaShao/py-data-analysis-basic/commit/e404088c394496ff352430db8bab5fe7770d6bae))
+- **matplotlib:** add line chart implementation with student scores visualization ([74dae89](https://github.com/DaoChaShao/py-data-analysis-basic/commit/74dae890a1d9d5710b12f2db7a29a9aa64abf975))
+- **matplotlib:** add annotation example with custom font support ([673c458](https://github.com/DaoChaShao/py-data-analysis-basic/commit/673c458cae284a993dba539fc1fb2aa2d57285a2))
+- **matplotlib:** add grid line functionality and subplot examples ([aa077cb](https://github.com/DaoChaShao/py-data-analysis-basic/commit/aa077cb05eaccdecb4701d4597f1aaccfdea8fb9))
+- **charts:** add 2D plotting functions with matplotlib ([70f187f](https://github.com/DaoChaShao/py-data-analysis-basic/commit/70f187ffd5b47cc3822c857642c0a6ba0b716afe))
+- **charts:** add font styling capability to matplotlib charts ([0c64dea](https://github.com/DaoChaShao/py-data-analysis-basic/commit/0c64dea975df90ca0715046aadfb2635351c6c59))
+- **charts:** add matplotlib chart with random styling options ([4be351c](https://github.com/DaoChaShao/py-data-analysis-basic/commit/4be351c118f6a538410f81e815d75b6cbcd883cc))
+- **matplotlib:** add matplotlib axis and scale customization examples ([d15b1fe](https://github.com/DaoChaShao/py-data-analysis-basic/commit/d15b1fe15f1cbfc3a107d3af97816d11a536021b))
+- **charts:** add matplotlib visualization examples with seaborn integration ([aee2e0d](https://github.com/DaoChaShao/py-data-analysis-basic/commit/aee2e0da815a1e66b9a642d54a1430b73d86f894))
+- **mimesis:** add comprehensive fake data generation script with Chinese locale support ([c77e722](https://github.com/DaoChaShao/py-data-analysis-basic/commit/c77e722501dbad4c1d15e2fce047046a592b1618))
+- **security:** add password encryption module with salt mechanism ([4aa01fe](https://github.com/DaoChaShao/py-data-analysis-basic/commit/4aa01fe18243787632d16cd36ec775faf35e60a3))
 - **security:** add MD5 hashing with salt implementation ([e64945b](https://github.com/DaoChaShao/py-data-analysis-basic/commit/e64945b98793f31e9efc7523ac19e3cdb14a4fc0))
-- **security:** add password encryption module with salt mechanism ([2dacd1e](https://github.com/DaoChaShao/py-data-analysis-basic/commit/2dacd1e3091b2cfb31aba9f29dc38d02744ccaca))
 - **utils:** add comprehensive utility functions for fake data generation and text processing ([46cc119](https://github.com/DaoChaShao/py-data-analysis-basic/commit/46cc119cc92ec80a90271ad8cdbaa7b2944345a7))
 - **test:** add initial test data file ([25b8e25](https://github.com/DaoChaShao/py-data-analysis-basic/commit/25b8e2537efa4a0468198d775e28fe2e1ef920bd))
 - **protocol:** add Python protocol implementation example ([bf2db5f](https://github.com/DaoChaShao/py-data-analysis-basic/commit/bf2db5f122948b26ff989a338b2f91799e9489c3))
@@ -34,4 +58,8 @@
 
 - **readme:** add Chinese README with privacy policy and setup instructions ([60f420a](https://github.com/DaoChaShao/py-data-analysis-basic/commit/60f420a5fc461f8730a43646d6cff03da2357b45))
 - **readme:** add comprehensive README with privacy notice and setup instructions ([75aeb7b](https://github.com/DaoChaShao/py-data-analysis-basic/commit/75aeb7bb1b459693cc880d650df351cc9a07f942))
+
+### Code Refactoring
+
+- **utils:** rename utils.py to utils/lier.py ([7b9ad36](https://github.com/DaoChaShao/py-data-analysis-basic/commit/7b9ad36b0cb7d081df794306c6710b0435399abb))
 
