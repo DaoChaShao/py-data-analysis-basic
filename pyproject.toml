@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "access-modifiers>=0.3.1",
     "faker>=40.38.0",
     "ipywidgets>=8.1.9",
     "mimesis>=21.0.0",
