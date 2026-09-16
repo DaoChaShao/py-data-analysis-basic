@@ -1,10 +1,16 @@
 <!-- insertion marker -->
 <a name="0.1.0"></a>
 
-## [0.1.0](https://github.com/DaoChaShao/py-data-analysis-basic/compare/2ae7502c419c2364761ee405d9437e79e4af5458...0.1.0) (2026-09-13)
+## [0.1.0](https://github.com/DaoChaShao/py-data-analysis-basic/compare/2ae7502c419c2364761ee405d9437e79e4af5458...0.1.0) (2026-09-17)
 
 ### Features
 
+- **deps:** add access-modifiers package dependency ([cc51c7c](https://github.com/DaoChaShao/py-data-analysis-basic/commit/cc51c7c4221723f778288c1ab9d0e67a3cca6ec2))
+- **deps:** add access-modifiers dependency to project ([c31309c](https://github.com/DaoChaShao/py-data-analysis-basic/commit/c31309c6a740a979b2f64b78a5b0a19f6d602c2a))
+- **bank:** add bank class with private attribute protection mechanism ([d6e668c](https://github.com/DaoChaShao/py-data-analysis-basic/commit/d6e668c31b73bddb5530a81446d1222d3ea69092))
+- **class:** add class attribute protection decorators and freeze functionality ([3cdb032](https://github.com/DaoChaShao/py-data-analysis-basic/commit/3cdb032e8dd8d0ea7ca2e88bf041dcb52e5e95c4))
+- **bank:** add private method access control implementation ([75ee66a](https://github.com/DaoChaShao/py-data-analysis-basic/commit/75ee66aa92fd9b1a6e878981011a1be6af9c0df9))
+- **dependencies:** add new Python packages and visualization capabilities ([9a47138](https://github.com/DaoChaShao/py-data-analysis-basic/commit/9a47138b55f4bfffdfda13616aa27785f1aa3cc5))
 - **deps:** add new Python packages to project dependencies ([3c58122](https://github.com/DaoChaShao/py-data-analysis-basic/commit/3c581224477a30386388abff77dafabf204c5bef))
 - **seaborn:** add comprehensive plotting examples with multiple visualization types ([bc4a16a](https://github.com/DaoChaShao/py-data-analysis-basic/commit/bc4a16a29cc3452c1b82e50bbe59c9264ed47ab7))
 - **seaborn:** add seaborn style and color palette examples ([9ef0475](https://github.com/DaoChaShao/py-data-analysis-basic/commit/9ef0475bfee890723ff3d4ed6e81b19be1d2a969))
