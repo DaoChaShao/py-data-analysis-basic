@@ -31,24 +31,29 @@ class Bank:
         print(f"Card {self._account}'s balance is: {self._get_balance():,}.")
 
     def __getattribute__(self, attr: str):
-        if attr.startswith("_") and not (attr.startswith("__") and attr.endswith("__")):
-            value = super().__getattribute__(attr)
+        #  Do not intercept Python magic methods / attributes
+        if attr.startswith("__") and attr.endswith("__"):
+            return super().__getattribute__(attr)
+
+        if attr.startswith("_"):
+            _value = super().__getattribute__(attr)
 
             # Check if the attribute is a callable (method)
-            if callable(value):
-                return value
+            if callable(_value):
+                return _value
 
             # Check if the caller is the class itself
-            caller_frame = currentframe().f_back
-            caller_locals = caller_frame.f_locals
-            is_internal_call = "self" in caller_locals and isinstance(caller_locals["self"], Bank)
+            _frame = currentframe().f_back
+            if _frame is not None:
+                _caller_self = _frame.f_locals.get("self")
+                if _caller_self is self:
+                    return _value
 
-            if not is_internal_call:
-                raise AttributeError(
-                    f"[Access Denied] "
-                    f"{self.__class__.__name__!r} object attribute {attr!r} is private "
-                    f"and cannot be accessed externally!"
-                )
+            raise AttributeError(
+                f"[Access Denied] "
+                f"{type(self).__name__!r} object attribute "
+                f"{attr!r} is private and cannot be accessed externally!"
+            )
 
         return super().__getattribute__(attr)
 
