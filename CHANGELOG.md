@@ -5,7 +5,7 @@
 
 ### Features
 
-- **access:** add access control mechanism with private and protected methods ([95ef4c6](https://github.com/DaoChaShao/py-data-analysis-basic/commit/95ef4c6006427220a966f55bfa869d090ff058ac))
+- **access:** add access control mechanism with private and protected methods ([fb18bdb](https://github.com/DaoChaShao/py-data-analysis-basic/commit/fb18bdba8ba80227cbb61bc70ea4497aaf8f1673))
 - **project:** add access modifiers and bank class with private attribute protection ([05054f8](https://github.com/DaoChaShao/py-data-analysis-basic/commit/05054f8f113860e0751de01da09ebde84a13a059))
 - **deps:** add access-modifiers package dependency ([cc51c7c](https://github.com/DaoChaShao/py-data-analysis-basic/commit/cc51c7c4221723f778288c1ab9d0e67a3cca6ec2))
 - **deps:** add access-modifiers dependency to project ([c31309c](https://github.com/DaoChaShao/py-data-analysis-basic/commit/c31309c6a740a979b2f64b78a5b0a19f6d602c2a))
@@ -126,6 +126,7 @@
 
 ### Code Refactoring
 
+- **Access:** update __getattribute__ method with proper type hints ([a058b41](https://github.com/DaoChaShao/py-data-analysis-basic/commit/a058b4124ed52909fe2accb95d18be355133c6e7))
 - **bank:** improve private attribute access control mechanism ([2d52284](https://github.com/DaoChaShao/py-data-analysis-basic/commit/2d5228443b319fc3406d6422e7c6ee49a70b5517))
 - **utils:** rename utils.py to utils/lier.py ([7b9ad36](https://github.com/DaoChaShao/py-data-analysis-basic/commit/7b9ad36b0cb7d081df794306c6710b0435399abb))
 
