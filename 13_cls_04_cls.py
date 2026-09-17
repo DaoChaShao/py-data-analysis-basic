@@ -8,6 +8,7 @@
 
 from inspect import currentframe
 from random import randint
+from typing import override, Any
 
 from access_modifiers import privatemethod, protectedmethod
 from faker import Faker
@@ -15,7 +16,8 @@ from faker import Faker
 
 class Access:
 
-    def __getattribute__(self, attr: str):
+    @override
+    def __getattribute__(self, attr: str) -> object | Any:
         """
         Override __getattribute__ to control attribute access
 
